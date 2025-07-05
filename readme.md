@@ -35,6 +35,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 ## 🌟 AI Code Assistants & Editors
 - **[Cursor](https://www.cursor.sh/)**: AI-powered code editor with advanced autocompletion and real-time coding assistance.
 - **[Cody (Sourcegraph)](https://about.sourcegraph.com/cody)**: AI assistant for code understanding, navigation, and generation across repositories.
+- **[Windsurf](https://windsurf.com/)**: AI-powered code editor with a powerful and advanced flexible coding agent that goes beyond simple autocompletion and code generation.
 - **[Safurai](https://www.safurai.com/)**: AI-driven IDE extension for code suggestions, debugging, and productivity boosts.
 - **[Aider](https://aider.chat)**: Collaborative AI tool for pair-programming and generating code edits via CLI.
 - **[Phind](https://www.phind.com/)**: AI search and coding assistant for instant answers and code solutions.
@@ -43,6 +44,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Memex](https://memex.tech/)**: AI assistant for contextual code insights and personalized developer support.
 - **[StackSpot AI](https://ai.stackspot.com/)**: AI platform for enterprise-grade code generation and developer efficiency.
 - **[ZZZ Code AI](https://zzzcode.ai)**: AI tool for code generation, debugging, and developer query resolution.
+- **[Trae](https://www.trae.ai/)**: An adaptive AI IDE that helps you code faster and collaborate with AI.
 
 ---
 
@@ -51,7 +53,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Codeium](https://www.codeium.com/)**: AI-powered code autocompletion for multiple languages and IDEs.
 - **[Tabnine](https://www.tabnine.com/)**: AI code completion with deep learning for personalized suggestions.
 - **[JetBrains AI](https://www.jetbrains.com/ai/)**: Integrated AI for code completion and analysis in JetBrains IDEs.
-- **[CodiumAI](https://www.codium.ai/)**: AI tool for generating tests and code suggestions to improve quality.
+- **[Cascade](https://windsurf.com/)**: Windsurf's powerful coding agent as a code editor and IDE extension.
 - **[Refact.ai](https://refact.ai/)**: AI-powered code completion and refactoring for optimized development.
 - **[Replit Ghostwriter](https://replit.com/site/ghostwriter)**: AI code completion for fast prototyping in Replit’s environment.
 - **[Google Code Assist (Gemini)](https://codeassist.google)**: AI-driven coding assistant for Google Cloud developers.
@@ -81,11 +83,11 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 ---
 
 ## 📦 LLM Code Models
-- **[OpenAI Codex](https://openai.com/blog/openai-codex/)**: LLM powering GitHub Copilot for advanced code generation.
 - **[Salesforce CodeGen](https://github.com/salesforce/CodeGen)**: Open-source LLM for generating high-quality code.
 - **[StarCoder](https://huggingface.co/bigcode/starcoder)**: Open-source LLM for code generation and programming tasks.
 - **[Code Llama](https://github.com/facebookresearch/codellama)**: Meta AI’s LLM optimized for code generation and completion.
 - **[Phi-3 Code](https://www.microsoft.com/en-us/research/blog/phi-3/)**: Microsoft’s lightweight LLM for efficient code generation.
+- **[Codestral](https://mistral.ai/news/codestral)**: Codestral is an open-weight generative AI model explicitly designed for code generation tasks.
 
 ---
 
@@ -99,6 +101,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 ---
 
 ## 💻 Shell & CLI Assistants
+- **[OpenAI Codex](https://openai.com/blog/openai-codex/)**: OpenAI's CLI coding agent.
 - **[Amazon Q Developer CLI](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html)**: AI-powered CLI for AWS-related coding and scripting.
 - **[talk-codebase](https://github.com/rsaryev/talk-codebase)**: AI tool for querying and interacting with codebases via CLI.
 - **[poorcoder](https://github.com/vgrichina/poorcoder)**: Minimalist AI CLI tool for generating shell scripts and commands.
@@ -107,6 +110,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Butterfish](https://butterfi.sh)**: AI tool for enhancing shell productivity with natural language.
 - **[TmuxAI](https://tmuxai.dev/)**: AI assistant for automating and optimizing tmux workflows.
 - **[Warp](https://www.warp.dev/)**: AI-enhanced terminal with smart command suggestions and workflows.
+- **[Codename Goose](https://github.com/block/goose)**: codename goose is a desktop and CLI tool that automates your tasks using large language models (LLMs) and extensions.
 
 ---
 
@@ -117,6 +121,8 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)**: AI agent for automating DevOps tasks and code integration.
 - **[Potpie](https://potpie.ai)**: AI coding agent for streamlined software development workflows.
 - **[Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)**: Anthropic’s AI agent for code generation and developer support.
+- **[Rovo Dev](https://www.atlassian.com/blog/announcements/rovo-dev-command-line-interface)**: Atlassian's specialized coding agent for the terminal.
+- **[Gemini CLI](https://github.com/google-gemini/gemini-cli)**: Google's flexible coding agent for the terminal.
 
 ---
 
@@ -148,6 +154,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Co.dev](https://www.co.dev/)**: AI-driven tool for generating scalable web and mobile apps.
 - **[Pico](https://picoapps.xyz/)**: AI-powered app generator for quick MVP creation.
 - **[Bolt.new](https://bolt.new)**: AI tool for building web apps from natural language prompts.
+- **[Lovable](https://lovable.dev/)**: AI-powered platform that lets you create and deploy apps from a single browser tab.
 
 ---
 
@@ -156,7 +163,8 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Magic Patterns](https://www.magicpatterns.com/)**: AI-driven platform for creating reusable UI components.
 - **[Kombai](https://kombai.com/)**: AI tool for converting designs into production-ready UI code.
 - **[Rendition Create](https://www.renditioncreate.com/)**: AI-powered UI generator for web and mobile interfaces.
-- **[Galileo AI](https://www.usegalileo.ai/)**: AI platform for designing and prototyping user interfaces.
+- **[Galileo AI](https://www.usegalileo.ai/)**: AI platform for designing and prototyping user interfaces.\
+- **[Deepsite](https://huggingface.co/spaces/enzostvs/deepsite)**: An AI platform that helps you build stunning websites, no code required.
 
 ---
 
