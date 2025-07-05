@@ -188,6 +188,8 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools)**: Curated list of general AI tools for various applications.
 - **[Awesome AI Agents](https://github.com/aylar-ghezelbash/awesome-ai-agents)**: Collection of AI agents for automation and development tasks.
 - **[Awesome Content Marketing](https://github.com/marketinguys/awesome-content-marketing)**
+- **[Altern](https://altern.ai)** - Find Almost anything related to AI
+- **[DevTools Directory](https://devtools.directory)** - Directory of trending Dev Tools  
 
 
 
