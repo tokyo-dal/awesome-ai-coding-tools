@@ -5,6 +5,7 @@
 💡 Curated list of **AI-powered coding tools**: AI code editors, code completion engines, review assistants, refactoring agents, LLMs for developers, and tools that turn natural language into code.
 Ideal for developers, teams, researchers, and tech enthusiasts looking to leverage artificial intelligence in their software engineering workflows.
 
+
 > 🛠️ Contributions welcome – [Open a PR](https://github.com/tokyo-dal/awesome-ai-coding-tools/pulls).
 
 ---
