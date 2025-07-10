@@ -27,7 +27,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 * [🔎 Snippet & Regex Tools](#-snippet--regex-tools)
 * [📖 Documentation Tools](#-documentation-tools)
 * [🔌 ChatGPT in Your Editor](#-chatgpt-in-your-editor)
-* [🛡️ AI Security Tools](#-ai-security-tools)
+* [🛡️ AI Security Tools](#ai-security-tools)
 * [📚 Related Lists](#-related-lists)
 
 ---
