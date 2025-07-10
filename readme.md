@@ -27,6 +27,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 * [🔎 Snippet & Regex Tools](#-snippet--regex-tools)
 * [📖 Documentation Tools](#-documentation-tools)
 * [🔌 ChatGPT in Your Editor](#-chatgpt-in-your-editor)
+* [🛡️ AI Security Tools](#-ai-security-tools)
 * [📚 Related Lists](#-related-lists)
 
 ---
@@ -190,6 +191,13 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[autocomplete.sh](https://github.com/closedLoop-technologies/autocomplete-sh)**: AI-powered shell autocompletion using ChatGPT.
 - **[org-ai (Emacs)](https://github.com/rksm/org-ai)**: Emacs plugin for ChatGPT-based coding and text assistance.
 - **[Genie AI – ChatGPT for VS Code](https://github.com/ai-genie/chatgpt-vscode)**: VS Code extension for ChatGPT-powered coding support.
+
+---
+
+## 🛡️ AI Security Tools
+- **[Snyk Code AI](https://snyk.io/product/snyk-code/)**: AI-driven static application security testing (SAST) platform that detects security issues and suggests actionable, context-aware code fixes.
+- **[GitGuardian AI](https://www.gitguardian.com/)**: AI-based tool that monitors codebases for leaked secrets, API keys, credentials, and sensitive information across both public and private repositories.
+- **[Bearer CLI](https://github.com/Bearer/bearer)**: Open-source AI tool for static security analysis, specializing in detecting sensitive data exposure and ensuring compliance with regulations like GDPR and PCI-DSS.
 
 ---
 
