@@ -156,7 +156,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Pico](https://picoapps.xyz/)**: AI-powered app generator for quick MVP creation.
 - **[Bolt.new](https://bolt.new)**: AI tool for building web apps from natural language prompts.
 - **[Lovable](https://lovable.dev/)**: AI-powered platform that lets you create and deploy apps from a single browser tab.
-
+- **[Capacity](https://capacity.so/)**: Agentic coding platform that uses Claude Code under the hood to turn anyone's idea into a full stack web app.
 ---
 
 ## 🎨 UI Generators
