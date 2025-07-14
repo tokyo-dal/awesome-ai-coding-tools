@@ -37,15 +37,14 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Cursor](https://www.cursor.sh/)**: AI-powered code editor with advanced autocompletion and real-time coding assistance.
 - **[Cody (Sourcegraph)](https://about.sourcegraph.com/cody)**: AI assistant for code understanding, navigation, and generation across repositories.
 - **[Windsurf](https://windsurf.com/)**: AI-powered code editor with a powerful and advanced flexible coding agent that goes beyond simple autocompletion and code generation.
-- **[Safurai](https://www.safurai.com/)**: AI-driven IDE extension for code suggestions, debugging, and productivity boosts.
 - **[Aider](https://aider.chat)**: Collaborative AI tool for pair-programming and generating code edits via CLI.
 - **[Phind](https://www.phind.com/)**: AI search and coding assistant for instant answers and code solutions.
-- **[Fynix](https://fynix.ai)**: AI-powered platform for streamlined coding and project management.
 - **[Kilo Code](https://kilocode.ai)**: AI-enhanced coding tool for generating and optimizing code workflows.
 - **[Memex](https://memex.tech/)**: AI assistant for contextual code insights and personalized developer support.
-- **[StackSpot AI](https://ai.stackspot.com/)**: AI platform for enterprise-grade code generation and developer efficiency.
 - **[ZZZ Code AI](https://zzzcode.ai)**: AI tool for code generation, debugging, and developer query resolution.
 - **[Trae](https://www.trae.ai/)**: An adaptive AI IDE that helps you code faster and collaborate with AI.
+- **[StackSpot AI](https://ai.stackspot.com/)**: AI platform for enterprise-grade code generation and developer efficiency.
+
 
 ---
 
@@ -141,7 +140,6 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 ## 🧪 Testing & QA Tools
 - **[Checksum AI](https://checksum.ai)**: AI-driven tool for automated software testing and validation.
 - **[OctoMind](https://octomind.dev)**: AI-powered platform for end-to-end testing automation.
-- **[DeepUnit](https://www.deepunit.ai/)**: AI tool for generating and optimizing unit tests.
 - **[KushoAI](https://kusho.ai/)**: AI-driven API testing tool for comprehensive QA automation.
 - **[Test Gru](https://gru.ai/home#test-gru)**: AI-powered testing assistant for streamlined QA workflows.
 - **[Qodo](https://www.qodo.ai/)**: AI tool for generating tests and ensuring code quality.
@@ -164,8 +162,6 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[v0.dev](https://v0.dev/)**: AI-powered tool for generating UI designs from text prompts.
 - **[Magic Patterns](https://www.magicpatterns.com/)**: AI-driven platform for creating reusable UI components.
 - **[Kombai](https://kombai.com/)**: AI tool for converting designs into production-ready UI code.
-- **[Rendition Create](https://www.renditioncreate.com/)**: AI-powered UI generator for web and mobile interfaces.
-- **[Galileo AI](https://www.usegalileo.ai/)**: AI platform for designing and prototyping user interfaces.\
 - **[Deepsite](https://huggingface.co/spaces/enzostvs/deepsite)**: An AI platform that helps you build stunning websites, no code required.
 
 ---
@@ -174,7 +170,6 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[AutoRegex](https://www.autoregex.xyz/)**: AI-powered tool for generating and explaining regular expressions.
 - **[CodePal](https://codepal.ai/)**: AI assistant for generating code snippets and utilities.
 - **[AI Code Convert](https://aicodeconvert.com/)**: AI tool for converting code between programming languages.
-- **[AI Code Playground](https://aicodeplayground.com/)**: AI-driven platform for experimenting with code snippets.
 
 ---
 
