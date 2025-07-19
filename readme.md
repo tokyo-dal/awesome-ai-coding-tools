@@ -44,6 +44,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[ZZZ Code AI](https://zzzcode.ai)**: AI tool for code generation, debugging, and developer query resolution.
 - **[Trae](https://www.trae.ai/)**: An adaptive AI IDE that helps you code faster and collaborate with AI.
 - **[StackSpot AI](https://ai.stackspot.com/)**: AI platform for enterprise-grade code generation and developer efficiency.
+- **[Blackbox AI](https://www.blackbox.ai/)**: AI-driven coding assistant enhancing productivity with intelligent code completions and documentation.
 
 
 ---
