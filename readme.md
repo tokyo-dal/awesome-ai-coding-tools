@@ -50,11 +50,11 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 ---
 
 ## ✨ AI Tools for Developers
-- **[Supercode.sh](https://supercode.sh/)**: Cursor IDE extension for prompt enhancement, precise voice input, Cursor-rules presets, etc.
-- **[SpecStory](https://specstory.com/)**: Cursor/VS Code/Claude Code extension for summarizing context across chats with AI.
+- **[Supercode.sh](https://supercode.sh/)**: Cursor extension that upgrades AI agent in Cursor with Architect Mode, precise voice input, prompt enhancement, etc.
+- **[SpecStory](https://specstory.com/)**: Cursor / VS Code / Claude Code extension for summarizing context across chats with AI and preserving / sharing tasks intents.
 - **[Task Master](https://github.com/eyaltoledano/claude-task-master)**: A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI.
-- **[Memory Bank](https://github.com/vanzan01/cursor-memory-bank)**: A token-optimized, hierarchical task management system that integrates with Cursor custom modes for efficient development workflows.
-- **[Context7](https://context7.com/)**: MCP server with up-to-date documentation for LLMs and AI code editors.
+- **[Memory Bank](https://github.com/vanzan01/cursor-memory-bank)**: A token-optimized, hierarchical task management system that integrates with Cursor for efficient multi-step development workflows.
+- **[Context7](https://context7.com/)**: MCP server with up-to-date documentation for LLMs and AI code editors with precise token-usage management.
 
 ---
 
