@@ -49,6 +49,15 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 
 ---
 
+## ✨ AI Tools for Developers
+- **[Supercode.sh](https://supercode.sh/)**: Cursor IDE extension for prompt enhancement, precise voice input, Cursor-rules presets, etc.
+- **[SpecStory](https://specstory.com/)**: Cursor/VS Code/Claude Code extension for summarizing context across chats with AI.
+- **[Task Master](https://github.com/eyaltoledano/claude-task-master)**: A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI.
+- **[Memory Bank](https://github.com/vanzan01/cursor-memory-bank)**: A token-optimized, hierarchical task management system that integrates with Cursor custom modes for efficient development workflows.
+- **[Context7](https://context7.com/)**: MCP server with up-to-date documentation for LLMs and AI code editors.
+
+---
+
 ## ✍️ AI Code Completion
 - **[GitHub Copilot](https://github.com/features/copilot)**: AI-driven code completion tool for real-time suggestions in IDEs.
 - **[Codeium](https://www.codeium.com/)**: AI-powered code autocompletion for multiple languages and IDEs.
