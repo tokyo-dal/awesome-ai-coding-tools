@@ -232,6 +232,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Databutton](https://databutton.com/)**: AI-powered app development platform.
 - **[Rocket.new](https://rocket.new/)**: AI-powered rapid application development.
 - **[Builder.io Fusion](https://www.builder.io/)**: AI-powered visual development platform.
+- **[Manifest.build](https://manifest.build/)**: AI-driven Backend.
 
 ---
 
