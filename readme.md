@@ -13,6 +13,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 ## 📚 Table of Contents
 
 * [🌟 AI Code Assistants & Editors](#-ai-code-assistants--editors)
+* [✨ AI Tools for Developers](#-ai-tools-for-developers)
 * [✍️ AI Code Completion](#️-ai-code-completion)
 * [🧠 Code Search & Navigation](#-code-search--navigation)
 * [🛠️ Code Review & Refactoring](#️-code-review--refactoring)
@@ -47,6 +48,15 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[StackSpot AI](https://ai.stackspot.com/)**: AI platform for enterprise-grade code generation and developer efficiency.
 - **[Blackbox AI](https://www.blackbox.ai/)**: AI-driven coding assistant enhancing productivity with intelligent code completions and documentation.
 
+
+---
+
+## ✨ AI Tools for Developers
+- **[Supercode.sh](https://supercode.sh/)**: Cursor extension that upgrades AI agent in Cursor with Architect Mode, precise voice input, prompt enhancement, etc.
+- **[SpecStory](https://specstory.com/)**: Cursor / VS Code / Claude Code extension for summarizing context across chats with AI and preserving / sharing tasks intents.
+- **[Task Master](https://github.com/eyaltoledano/claude-task-master)**: A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI.
+- **[Memory Bank](https://github.com/vanzan01/cursor-memory-bank)**: A token-optimized, hierarchical task management system that integrates with Cursor for efficient multi-step development workflows.
+- **[Context7](https://context7.com/)**: MCP server with up-to-date documentation for LLMs and AI code editors with precise token-usage management.
 
 ---
 
