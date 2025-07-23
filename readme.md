@@ -157,6 +157,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Lovable](https://lovable.dev/)**: AI-powered platform that lets you create and deploy apps from a single browser tab.
 - **[Capacity](https://capacity.so/)**: Agentic coding platform that uses Claude Code under the hood to turn anyone's idea into a full stack web app.
 - **[Shakespeare](https://shakespeare.diy)**: Open-source & decentralized AI tool for building web apps in the browser with natural language chat.
+- - **[CreateLex](https://createlex.com)**: AI-powered plugin for Unreal Engine that lets developers generate Blueprints, C++ code, and node graphs using natural language — streamlining game and XR development directly in the editor.
 ---
 
 ## 🎨 UI Generators
