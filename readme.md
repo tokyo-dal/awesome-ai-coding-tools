@@ -28,6 +28,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 * [📖 Documentation Tools](#-documentation-tools)
 * [🔌 ChatGPT in Your Editor](#-chatgpt-in-your-editor)
 * [🛡️ AI Security Tools](#️-ai-security-tools)
+* [🗄️ MCP Server/Tools](#-mcp-server-tools)
 * [📚 Related Lists](#-related-lists)
 
 ---
@@ -193,9 +194,26 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 ---
 
 ## 🛡️ AI Security Tools
-- **[Snyk Code AI](https://snyk.io/product/snyk-code/)**: AI-driven static application security testing (SAST) platform that detects security issues and suggests actionable, context-aware code fixes.
+- **[Snyk Code AI](https://snyk.io/product/snyk-code/)**: Static Application Security Testing (SAST) tool for scanning source code for vulnerabilities and insecure patterns as you write, powered by DeepCode AI.
+- **[Snyk API & Web](https://snyk.io/product/api-security/)**: Dynamic Application Security Testing (DAST) tool for discovering and testing the security of running APIs and web applications using AI-driven analysis.
+- **Snyk DeepCode AI**: The AI engine that powers Snyk Code and other Snyk security tools, providing advanced vulnerability detection, autofix, and risk prioritization. (Not a standalone product)
 - **[GitGuardian AI](https://www.gitguardian.com/)**: AI-based tool that monitors codebases for leaked secrets, API keys, credentials, and sensitive information across both public and private repositories.
 - **[Bearer CLI](https://github.com/Bearer/bearer)**: Open-source AI tool for static security analysis, specializing in detecting sensitive data exposure and ensuring compliance with regulations like GDPR and PCI-DSS.
+- **[HackerOne Code](https://www.hackerone.com/product/code)**: Combines AI and human expertise for code security, offering context-aware vulnerability detection, triage, and remediation tailored for AI-generated and human-written code.
+- **[Endor Labs AI Code Security](https://www.endorlabs.com/ai-code-security-review)**: AI-driven code review platform that analyzes every pull request for security risks, architectural changes, and business logic vulnerabilities, with actionable insights and context.
+- **[Code Intelligence CI Fuzz](https://www.code-intelligence.com/)**: AI-automated fuzz testing tool for C/C++ and other languages, enabling developers to find and fix critical bugs and vulnerabilities early in the development process.
+
+---
+
+## 🗄️ MCP Server/Tools
+- **[MCP Server Finder](https://www.mcpserverfinder.com/servers)**: Discover and browse a wide range of MCP servers.
+- **[MCP So](https://mcp.so/)**: Platform for MCP server resources and community.
+- **[MCP Market](https://mcpmarket.com/)**: Marketplace for MCP-related tools and services.
+- **[Cursor MCP Directory](https://cursor.directory/mcp)**: Directory of MCP servers and tools curated by Cursor.
+- **[VSCode MCP Directory](https://code.visualstudio.com/mcp)**: Official VSCode directory for MCP servers and integrations.
+- **[Claude MCP Servers](https://www.claudemcp.com/servers)**: Claude's curated list of MCP servers.
+- **[PulseMCP Server Directory](https://www.pulsemcp.com/servers)**: Large, frequently updated directory of MCP servers, including trending, official, and community servers across many categories.
+- **[MCPServers.Net](https://mcpservers.net/)**: Comprehensive MCP server navigation platform, featuring official and community servers, tutorials, and resources.
 
 ---
 
