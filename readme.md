@@ -114,7 +114,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[ReviewNB](https://www.reviewnb.com/)**: Jupyter notebook code review tool.
 - **[CodeAnt AI](https://codeant.ai/)**: AI-powered code review and quality analysis.
 - **[Squire.ai](https://squire.ai/)**: AI-powered code review and quality assurance.
-- **[Qodo (Terragon)](https://www.terragonlabs.com/dashboard)**: Comprehensive code review and automated test generation platform.
+- **[Terragon](https://www.terragonlabs.com/dashboard)**: Comprehensive code review and automated test generation platform.
 
 
 ---
