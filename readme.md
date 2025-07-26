@@ -56,6 +56,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Void Editor](https://voideditor.com/)**: Minimalist code editor with AI integration.
 - **[Codel](https://codel.ai/)**: AI-powered development environment.
 - **[PearAI](https://pear.ai/)**: AI-powered development assistant.
+- **[Kiro](https://kiro.dev/)**: AI-powered development environment.
 
 ---
 
