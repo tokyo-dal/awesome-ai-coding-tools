@@ -114,6 +114,8 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[ReviewNB](https://www.reviewnb.com/)**: Jupyter notebook code review tool.
 - **[CodeAnt AI](https://codeant.ai/)**: AI-powered code review and quality analysis.
 - **[Squire.ai](https://squire.ai/)**: AI-powered code review and quality assurance.
+- **[Qodo (Terragon)](https://www.terragonlabs.com/dashboard)**: Comprehensive code review and automated test generation platform.
+
 
 ---
 
@@ -151,6 +153,8 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Codename Goose](https://github.com/block/goose)**: codename goose is a desktop and CLI tool that automates your tasks using large language models (LLMs) and extensions.
 - **[Mentat](https://mentat.ai/)**: AI coding assistant for command-line development.
 - **[Bito.ai](https://bito.ai/)**: AI-powered development assistant with CLI integration.
+  **[Opencode_CLI](https://github.com/opencode-ai/opencode)**: AI-powered development assistant with CLI integration.
+
 
 
 ---
@@ -233,6 +237,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Rocket.new](https://rocket.new/)**: AI-powered rapid application development.
 - **[Builder.io Fusion](https://www.builder.io/)**: AI-powered visual development platform.
 - **[Manifest.build](https://manifest.build/)**: AI-driven Backend.
+- **[lovable.dev](https://lovable.dev/)**:  It allows you to build and deploy web applications from a single prompt.
 
 ---
 
