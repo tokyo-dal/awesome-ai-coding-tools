@@ -172,6 +172,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Software Agent AI](https://softwareagent.ai/)**: Autonomous AI agents for software development tasks.
 - **[Goose](https://goose.ai/)**: AI-powered development automation.
 - **[Deebo](https://deebo.ai/)**: AI-powered development assistant.
+- **[JunieAI (JetBrains)](https://www.jetbrains.com/junieai/)**: AI coding agent that plans, writes, tests, and refactors code intelligently within JetBrains IDEs—empowering you to focus on high-level development while it handles routine tasks.
 
 
 ---
