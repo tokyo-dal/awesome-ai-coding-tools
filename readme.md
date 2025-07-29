@@ -6,7 +6,7 @@
 Ideal for developers, teams, researchers, and tech enthusiasts looking to leverage artificial intelligence in their software engineering workflows.
 
 
-> 🛠️ Contributions welcome – [Open a PR](https://github.com/tokyo-dal/awesome-ai-coding-tools/pulls).
+> 🛠️ Contributions welcome – [Open a PR](https://github.com/ai-for-developers/awesome-ai-coding-tools/pulls).
 
 ---
 
