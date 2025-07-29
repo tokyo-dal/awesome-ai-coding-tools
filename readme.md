@@ -252,6 +252,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Rendition Create](https://www.renditioncreate.com/)**: AI-powered UI generator for web and mobile interfaces.
 - **[Galileo AI](https://www.usegalileo.ai/)**: AI platform for designing and prototyping user interfaces.
 - **[Phorm.ai](https://phorm.ai/)**: AI-powered form and interface generation.
+- **[Stitch (by Google)](https://stitch.withgoogle.com/)**: AI-powered UI generator from Google Labs, uses Gemini models to convert natural language or image inputs into multi-screen mobile/web UI designs and clean front‑end code; supports Figma export and conversational iteration.
 
 
 ---
@@ -271,6 +272,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Supacodes](https://www.supacodes.com)**: AI-powered platform for automated code documentation.
 - **[Cleric.io](https://cleric.io/)**: AI assistant for technical documentation and code explanation.
 - **[Theneo.io](https://theneo.io/)**: AI-powered API documentation generation.
+- **[GPTutor](https://gptutor.tools/)**: VS Code extension offering customizable LLM‑powered code explanations and tutoring across 120+ human languages and 50+ programming languages.
 
 ---
 
