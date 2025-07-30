@@ -138,7 +138,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Lovable (GPT Engineer)](https://lovable.dev/)**: Natural language to app generation platform.
 - **[Marblism](https://marblism.com/)**: AI-powered full-stack application generation.
 - **[Pythagora.ai](https://pythagora.ai/)**: AI-powered full-stack development platform.
-
+- **[DataPup](https://github.com/DataPupOrg/DataPup)**: AI-powered Database client for generating context based SQL queries from natural language.
 ---
 
 ## 💻 Shell & CLI Assistants
