@@ -6,7 +6,7 @@
 Ideal for developers, teams, researchers, and tech enthusiasts looking to leverage artificial intelligence in their software engineering workflows.
 
 
-> 🛠️ Contributions welcome – [Open a PR](https://github.com/tokyo-dal/awesome-ai-coding-tools/pulls).
+> 🛠️ Contributions welcome – [Open a PR](https://github.com/ai-for-developers/awesome-ai-coding-tools/pulls).
 
 ---
 
@@ -142,6 +142,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - [Marblism](https://marblism.com/) – AI-powered full-stack application generation.
 - [Pythagora.ai](https://pythagora.ai/) – AI-powered full-stack development platform.
 - [GPT Migrate](https://github.com/0xpayne/gpt-migrate) – AI tool for migrating codebases between different programming languages or frameworks.
+- [DataPup](https://github.com/DataPupOrg/DataPup) – AI-powered Database client for generating context based SQL queries from natural language.
 
 ## 💻 Shell & CLI Assistants
 - [OpenAI Codex](https://openai.com/blog/openai-codex/) – OpenAI's CLI coding agent.
@@ -253,6 +254,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - [Rendition Create](https://www.renditioncreate.com/) – AI-powered UI generator for web and mobile interfaces.
 - [Galileo AI](https://www.usegalileo.ai/) – AI platform for designing and prototyping user interfaces.
 - [Phorm.ai](https://phorm.ai/) – AI-powered form and interface generation.
+- [Stitch (by Google)](https://stitch.withgoogle.com/) – AI-powered UI generator from Google Labs, uses Gemini models to convert natural language or image inputs into multi-screen mobile/web UI designs and clean front‑end code; supports Figma export and conversational iteration.
 - [Uizard](https://uizard.io/) – AI-powered design tool converting hand-drawn mockups, screenshots, or text into interactive prototypes and code.
 - [Figma AI](https://figma.com/ai) – Native AI features within Figma for automated design tasks, content generation, and design-to-code workflows.
 - [TeleportHQ](https://teleporthq.io/) – AI-powered front-end design platform generating production-ready code from visual designs.
@@ -270,6 +272,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - [Supacodes](https://www.supacodes.com) – AI-powered platform for automated code documentation.
 - [Cleric.io](https://cleric.io/) – AI assistant for technical documentation and code explanation.
 - [Theneo.io](https://theneo.io/) – AI-powered API documentation generation.
+- [GPTutor](https://gptutor.tools/) – VS Code extension offering customizable LLM‑powered code explanations and tutoring across 120+ human languages and 50+ programming languages.
 - [Mintlify](https://mintlify.com/) – AI-powered documentation platform that automatically generates and maintains technical documentation from code.
 - [GitBook AI](https://gitbook.com/ai) – AI-enhanced documentation platform with intelligent content suggestions and automated organization.
 - [Slab](https://slab.com/) – Team knowledge base with AI-powered search, content suggestions, and automated documentation workflows.
@@ -334,6 +337,17 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - [Gradio](https://gradio.app/) – AI tool for rapidly creating machine learning model demos and interactive interfaces.
 - [Streamlit](https://streamlit.io/) – Framework for building AI/ML data applications with minimal code and AI-powered features.
 - [Observable](https://observablehq.com/) – Data visualization platform with AI-enhanced analysis and interactive notebook capabilities.
+
+## 🗄️ MCP Server/Tools
+
+- **[MCP Server Finder](https://mcpserverfinder.com)** –Discover and browse a wide range of MCP servers.
+- **[MCP So](https://mcps.so)** –  Platform for MCP server resources and community.
+- **[MCP Market](https://mcpmarket.com)** –Marketplace for MCP-related tools and services.
+- **[Cursor MCP Directory](https://cursor.so/mcp-directory)** – Directory of MCP servers and tools curated by Cursor.
+- **[VSCode MCP Directory](https://marketplace.visualstudio.com/search?term=MCP&target=VSCode)** – Official VSCode directory for MCP servers and integrations.
+- **[Claude MCP Servers](https://claude.ai/mcp-servers)** – Claude’s list of top MCP servers.  
+- **[PulseMCP Server Directory](https://pulsemcp.com/directory)** – Large, frequently updated directory of MCP servers, including trending, official, and community servers across many categories.
+- **[MCPServers.Net](https://mcpservers.net)** –  Comprehensive MCP server navigation platform, featuring official and community servers, tutorials, and resources.
 
 ## 📚 Related Lists
 - [AI For Developers](https://aifordevelopers.org) – Curated list of AI Devtools for various applications.
