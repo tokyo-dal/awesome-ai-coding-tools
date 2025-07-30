@@ -340,14 +340,14 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 
 ## 🗄️ MCP Server/Tools
 
-- **[MCP Server Finder](https://mcpserverfinder.com)** –Discover and browse a wide range of MCP servers.
+- **[MCP Server Finder](https://mcpserverfinder.com) –Discover and browse a wide range of MCP servers.
 - **[MCP So](https://mcps.so)** –  Platform for MCP server resources and community.
 - **[MCP Market](https://mcpmarket.com)** –Marketplace for MCP-related tools and services.
-- **[Cursor MCP Directory](https://cursor.so/mcp-directory)** – Directory of MCP servers and tools curated by Cursor.
+- **[Cursor MCP Directory](https://cursor.so/mcp-directory) – Directory of MCP servers and tools curated by Cursor.
 - **[VSCode MCP Directory](https://marketplace.visualstudio.com/search?term=MCP&target=VSCode)** – Official VSCode directory for MCP servers and integrations.
-- **[Claude MCP Servers](https://claude.ai/mcp-servers)** – Claude’s list of top MCP servers.  
-- **[PulseMCP Server Directory](https://pulsemcp.com/directory)** – Large, frequently updated directory of MCP servers, including trending, official, and community servers across many categories.
-- **[MCPServers.Net](https://mcpservers.net)** –  Comprehensive MCP server navigation platform, featuring official and community servers, tutorials, and resources.
+- **[Claude MCP Servers](https://claude.ai/mcp-servers)– Claude’s list of top MCP servers.  
+- **[PulseMCP Server Directory](https://pulsemcp.com/directory) – Large, frequently updated directory of MCP servers, including trending, official, and community servers across many categories.
+- **[MCPServers.Net](https://mcpservers.net)–  Comprehensive MCP server navigation platform, featuring official and community servers, tutorials, and resources.
 
 ## 📚 Related Lists
 - [AI For Developers](https://aifordevelopers.org) – Curated list of AI Devtools for various applications.
