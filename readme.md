@@ -264,6 +264,8 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Rocket.new](https://rocket.new/)**: AI-powered rapid application development.
 - **[Builder.io Fusion](https://www.builder.io/)**: AI-powered visual development platform.
 - **[Manifest.build](https://manifest.build/)**: AI-driven Backend.
+- **[lovable.dev](https://lovable.dev/)**:  It allows you to build and deploy web applications from a single prompt.
+- **[MagicLoops](https://magicloops.dev)**: Create complete apps in minutes with no code.
 - **[base44](https://www.base44.com/)**: AI-native software development OS for startups to design, develop & deploy products faster.
 - **[10Web](https://10web.io/)**: AI-powered WordPress website builder with automated design, content generation, and optimization features.
 - **[Framer AI](https://framer.com/ai)**: AI-powered website builder with advanced design capabilities and no-code/low-code approach.
