@@ -286,7 +286,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Uizard](https://uizard.io/)**: AI-powered design tool converting hand-drawn mockups, screenshots, or text into interactive prototypes and code.
 - **[Figma AI](https://figma.com/ai)**: Native AI features within Figma for automated design tasks, content generation, and design-to-code workflows.
 - **[TeleportHQ](https://teleporthq.io/)**: AI-powered front-end design platform generating production-ready code from visual designs.
-
+- **[Freepik](https://www.freepik.com/)**: AI-powered design platform with image generation, background removal, and mockup creation tools for UI designers and developers.
 ---
 
 ## 🔎 Snippet & Regex Tools
