@@ -13,7 +13,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 ## 📚 Table of Contents
 
 * [🌟 AI Code Assistants & Editors](#-ai-code-assistants--editors)
-* [🛠️ AI App Builders](#-ai-app-builders)
+* [🛠️ AI App Builders](#%EF%B8%8F-ai-app-builders)
 * [✨ AI Tools for Developers](#-ai-tools-for-developers)
 * [✍️ AI Code Completion](#️-ai-code-completion)
 * [🧠 Code Search & Navigation](#-code-search--navigation)
