@@ -10,13 +10,14 @@ _Last Updated: July 2025_
 Ideal for developers, teams, researchers, and tech enthusiasts looking to leverage artificial intelligence in their software engineering workflows.
 
 
-> 🛠️ Contributions welcome – [Open a PR](https://github.com/tokyo-dal/awesome-ai-coding-tools/pulls).
+> 🛠️ Contributions welcome – [Open a PR](https://github.com/ai-for-developers/awesome-ai-coding-tools/pulls).
 
 ---
 
 ## 📚 Table of Contents
 
 * [🌟 AI Code Assistants & Editors](#-ai-code-assistants--editors)
+* [🛠️ AI App Builders](#%EF%B8%8F-ai-app-builders)
 * [✨ AI Tools for Developers](#-ai-tools-for-developers)
 * [✍️ AI Code Completion](#️-ai-code-completion)
 * [🧠 Code Search & Navigation](#-code-search--navigation)
@@ -39,7 +40,12 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 * [🎮 AI for Game Development](#-ai-for-game-development)
 * [🌐 AI for Web Development](#-ai-for-web-development)
 * [🗄️ MCP Server & Tools](#-mcp-server--tools)
+* [📱 Mobile Development](#-mobile-development)
+* [🗄️ Database & API Tools](#️-database--api-tools)
+* [🎯 MLOps & Specialized Tools](#-mlops--specialized-tools)
+* [🗄️ MCP Server/Tools](#-mcp-server-tools)
 * [📚 Related Lists](#-related-lists)
+
 
 ---
 
@@ -63,6 +69,29 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Void Editor](https://voideditor.com/)**: Minimalist code editor with AI integration.
 - **[Codel](https://codel.ai/)**: AI-powered development environment.
 - **[PearAI](https://pear.ai/)**: AI-powered development assistant.
+- **[Kiro](https://kiro.dev/)**: AI-powered development environment.
+- **[Zed](https://zed.dev/)** – High-performance, multiplayer code editor built in Rust with integrated AI assistance.
+- **[Claude Desktop](https://claude.ai/desktop)**: Anthropic's desktop application for development tasks, code analysis, and programming assistance.
+- **[Magic](https://magic.dev/)**: AI software engineer platform that understands codebases and handles complex development tasks autonomously.
+- **[Jupyter AI](https://jupyter-ai.readthedocs.io/)**: AI-powered extensions for Jupyter notebooks enabling natural language code generation and data analysis.
+- **[Replit Agent](https://replit.com/agent)**: Advanced AI agent within Replit that builds complete applications from natural language descriptions.
+
+---
+
+## 🛠️ [AI App Builders](https://aifordevelopers.org/category/ai-app-builders)
+
+- **[Bolt.new](https://aifordevelopers.org/tool/bolt.new)** - [🔗](https://bolt.new/?utm_source=aifordevelopers.org&utm_medium=directory&utm_campaign=aifordevelopers) - AI-powered platform for building, editing, and deploying full-stack web applications directly in the browser using natural language prompts, with one-click Netlify deployment and support for frameworks like React and Next.js.
+- **[Dyad.sh](https://aifordevelopers.org/tool/dyad)** - [🔗](https://www.dyad.sh/?utm_source=aifordevelopers.org&utm_medium=directory&utm_campaign=aifordevelopers) - Free, local, open-source AI app builder running on your machine, offering flexibility with any AI model (e.g., Gemini, Claude) and seamless integration with IDEs like VS Code or Cursor, with Supabase support for backend features.
+- **[Lovable](https://aifordevelopers.org/tool/lovable)** - [🔗](https://lovable.dev/?utm_source=aifordevelopers.org&utm_medium=directory&utm_campaign=aifordevelopers) - AI-driven tool that enables users to create and deploy web applications from a single prompt in a browser tab.
+- **[Capacity](https://capacity.so/)**: Agentic coding platform leveraging Claude Code to transform ideas into full-stack web applications with minimal user input.
+- **[Builder.ai](https://www.builder.ai/)**: AI-driven custom software development platform that automates app creation for web and mobile, tailored to business needs.
+- **[10Web](https://10web.io/)**: AI-powered WordPress website builder with automated design, content generation, and optimization features for rapid app development.
+- **[Durable](https://durable.co/)**: AI website and business application builder that creates complete solutions, including backend and frontend, from simple text prompts.
+- **[Rocket.new](https://rocket.new/)**: AI-powered platform for rapid application development, focusing on generating scalable apps from natural language inputs.
+- **[base44](https://www.base44.com/)**: AI-native software development OS designed for startups to design, develop, and deploy products faster with integrated AI workflows.
+- **[MagicLoops](https://magicloops.dev)**: No-code platform that uses AI to create complete applications in minutes from text-based instructions.
+- **[Create.xyz](https://create.xyz/)**: AI-powered app creation platform that simplifies building web and mobile applications with automated code generation.
+- **[Mage](https://usemage.ai/)**: AI-powered platform for generating full-stack applications from natural language prompts, supporting rapid prototyping and deployment.
 
 ---
 
@@ -72,6 +101,10 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Task Master](https://github.com/eyaltoledano/claude-task-master)**: A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI.
 - **[Memory Bank](https://github.com/vanzan01/cursor-memory-bank)**: A token-optimized, hierarchical task management system that integrates with Cursor for efficient multi-step development workflows.
 - **[Context7](https://context7.com/)**: MCP server with up-to-date documentation for LLMs and AI code editors with precise token-usage management.
+- **[Raycast AI](https://raycast.com/ai)**: AI-powered productivity launcher with coding capabilities and developer workflow automation.
+- **[Perplexity Pro](https://perplexity.ai/pro)**: AI-powered search engine with real-time web access for coding solutions and documentation.
+- **[Warp AI](https://warp.dev/ai)**: AI-enhanced terminal with intelligent command suggestions and workflow optimization.
+- **[Fig](https://fig.io/)**: Terminal autocomplete and AI assistance tool for command-line productivity (now part of AWS).
 
 ---
 
@@ -88,6 +121,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Amazon Q Developer](https://aws.amazon.com/q/developer/)**: AI assistant for code completion, debugging, and AWS integration.
 - **[Visual Studio IntelliCode](https://visualstudio.microsoft.com/services/intellicode/)**: Microsoft's AI-powered code completion for Visual Studio ecosystem.
 - **[CodeGeeX](https://codegeex.cn/)**: Multilingual code generation model supporting multiple programming languages.
+- **[Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)**: Real-time AI code suggestions with security vulnerability scanning and enterprise privacy controls.
 
 ---
 
@@ -121,6 +155,10 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[ReviewNB](https://www.reviewnb.com/)**: Jupyter notebook code review tool.
 - **[CodeAnt AI](https://codeant.ai/)**: AI-powered code review and quality analysis.
 - **[Squire.ai](https://squire.ai/)**: AI-powered code review and quality assurance.
+- **[Terragon](https://www.terragonlabs.com/dashboard)**: Comprehensive code review and automated test generation platform.
+**[Embold](https://embold.io/)**: AI-powered code analysis focusing on code quality, maintainability, and technical debt identification.
+- **[PullRequest](https://www.pullrequest.com/)**: Human-AI hybrid code review service combining automated analysis with expert human reviewers.
+- **[Veracode](https://www.veracode.com/)**: AI-driven application security platform with static and dynamic analysis capabilities.
 
 ---
 
@@ -146,6 +184,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Pythagora.ai](https://pythagora.ai/)**: AI-powered full-stack development platform.
 - **[Magick](https://magick.ai/)**: A visual platform for building and deploying AI agents and applications, transforming ideas into functional products without extensive coding.
 - **[Axiom](https://axiom.ai/)**: An AI-powered tool for automating browser tasks and web workflows using natural language commands, effectively turning instructions into automated actions.
+- **[DataPup](https://github.com/DataPupOrg/DataPup)**: AI-powered Database client for generating context based SQL queries from natural language.
 
 ---
 
@@ -162,13 +201,17 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Codename Goose](https://github.com/block/goose)**: codename goose is a desktop and CLI tool that automates your tasks using large language models (LLMs) and extensions.
 - **[Mentat](https://mentat.ai/)**: AI coding assistant for command-line development.
 - **[Bito.ai](https://bito.ai/)**: AI-powered development assistant with CLI integration.
-
+  **[Opencode_CLI](https://github.com/opencode-ai/opencode)**: AI-powered development assistant with CLI integration.
+- **[GitHub Copilot CLI](https://github.com/cli/cli/tree/trunk/pkg/cmd/copilot)**: Official GitHub AI assistant for command-line with context-aware command suggestions.
+- **[ShellGPT](https://github.com/TheR1D/shell_gpt)**: Command-line tool integrating ChatGPT for shell command generation and system administration.
+- **[AICommits](https://github.com/Nutlope/aicommits)**: AI-powered tool for generating meaningful Git commit messages based on code changes.
 
 ---
 
 ## 🧑‍💻 Coding Agents
 - **[Smol Developer](https://github.com/smol-ai/developer)**: Lightweight AI coding agent for rapid prototyping.
 - **[Aider](https://github.com/paul-gauthier/aider)**: AI coding agent for collaborative code editing and generation.
+- **[Flumes AI](https://www.flumes.ai)**: Unified memory infrastructure for AI agents. Store and retrieve facts, context, and prior outputs across sessions. SDK available, Langchain-compatible, with Colab demo and graph-based memory inspection.
 - **[GPT Engineer](https://github.com/AntonOsika/gpt-engineer)**: AI agent for building full applications from natural language.
 - **[DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)**: AI agent for automating DevOps tasks and code integration.
 - **[Potpie](https://potpie.ai)**: AI coding agent for streamlined software development workflows.
@@ -187,7 +230,10 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Open Interpreter](https://github.com/openinterpreter/open-interpreter)**: An open-source AI agent that allows Large Language Models to execute code (Python, JavaScript, Shell, etc.) on your machine, enabling them to perform complex tasks and interact with your environment.
 - **[Devin by Cognition AI](https://cognition.ai/blog/introducing-devin)**: The world's first AI software engineer, capable of planning and executing complex engineering tasks, collaborating with users, and learning from its own experiences. (Note: Currently in limited access.)
 - **[Agent Protocol](https://agentprotocol.ai/)**: An open standard for defining how AI agents communicate and interact with each other and with tools, facilitating the development of interoperable multi-agent systems.
-
+- **[JunieAI (JetBrains)](https://www.jetbrains.com/junieai/)**: AI coding agent that plans, writes, tests, and refactors code intelligently within JetBrains IDEs—empowering you to focus on high-level development while it handles routine tasks.
+- **[Fine](https://fine.dev/)**: AI software development agent that understands requirements, writes code, and iterates autonomously.
+- **[Factory](https://factory.ai/)**: AI-powered software development platform automating repetitive coding tasks and accelerating development cycles.
+- **[Pythagora](https://pythagora.ai/)**: AI agent that builds applications through conversational interaction, handling frontend and backend development.
 
 ---
 
@@ -223,6 +269,10 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Octomind](https://octomind.dev/)**: AI-powered end-to-end testing.
 - **[Testsprite](https://testsprite.com/)**: AI-powered testing automation.
 - **[Testim.io](https://www.testim.io/)**: An AI-powered test automation platform that uses machine learning to create, execute, and maintain end-to-end UI tests, adapting to changes in the application.
+- **[DiffBlue Cover](https://www.diffblue.com/)**: AI-powered tool specifically for generating comprehensive unit tests for Java applications.
+- **[Testim](https://www.testim.io/)**: AI-powered end-to-end testing platform with self-healing test capabilities and smart locators.
+- **[Launchable](https://launchableinc.com/)**: AI-driven test optimization platform that predicts which tests to run based on code changes.
+- **[Parasoft](https://www.parasoft.com/)**: Comprehensive AI-enhanced software testing suite covering static analysis, unit testing, and API testing.
 
 ---
 
@@ -250,6 +300,13 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Rocket.new](https://rocket.new/)**: AI-powered rapid application development.
 - **[Builder.io Fusion](https://www.builder.io/)**: AI-powered visual development platform.
 - **[Manifest.build](https://manifest.build/)**: AI-driven Backend.
+- **[lovable.dev](https://lovable.dev/)**:  It allows you to build and deploy web applications from a single prompt.
+- **[MagicLoops](https://magicloops.dev)**: Create complete apps in minutes with no code.
+- **[base44](https://www.base44.com/)**: AI-native software development OS for startups to design, develop & deploy products faster.
+- **[10Web](https://10web.io/)**: AI-powered WordPress website builder with automated design, content generation, and optimization features.
+- **[Framer AI](https://framer.com/ai)**: AI-powered website builder with advanced design capabilities and no-code/low-code approach.
+- **[Webflow AI](https://webflow.com/ai)**: AI features within Webflow for automated design assistance and content generation.
+- **[Durable](https://durable.co/)**: AI website and business application builder that creates complete business solutions from simple prompts.
 
 ---
 
@@ -261,8 +318,11 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Rendition Create](https://www.renditioncreate.com/)**: AI-powered UI generator for web and mobile interfaces.
 - **[Galileo AI](https://www.usegalileo.ai/)**: AI platform for designing and prototyping user interfaces.
 - **[Phorm.ai](https://phorm.ai/)**: AI-powered form and interface generation.
-
-
+- **[Stitch (by Google)](https://stitch.withgoogle.com/)**: AI-powered UI generator from Google Labs, uses Gemini models to convert natural language or image inputs into multi-screen mobile/web UI designs and clean front‑end code; supports Figma export and conversational iteration.
+- **[Uizard](https://uizard.io/)**: AI-powered design tool converting hand-drawn mockups, screenshots, or text into interactive prototypes and code.
+- **[Figma AI](https://figma.com/ai)**: Native AI features within Figma for automated design tasks, content generation, and design-to-code workflows.
+- **[TeleportHQ](https://teleporthq.io/)**: AI-powered front-end design platform generating production-ready code from visual designs.
+- **[Freepik](https://www.freepik.com/)**: AI-powered design platform with image generation, background removal, and mockup creation tools for UI designers and developers.
 ---
 
 ## 🔎 Snippet & Regex Tools
@@ -281,6 +341,10 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Cleric.io](https://cleric.io/)**: AI assistant for technical documentation and code explanation.
 - **[Theneo.io](https://theneo.io/)**: AI-powered API documentation generation.
 - **[mintlify](https://mintlify.com/)**: An AI-powered platform for generating and maintaining developer documentation, offering features like automated doc generation, version control, and beautiful themes.
+- **[Mintlify](https://mintlify.com/)**: AI-powered documentation platform that automatically generates and maintains technical documentation from code.
+- **[GitBook AI](https://gitbook.com/ai)**: AI-enhanced documentation platform with intelligent content suggestions and automated organization.
+- **[Slab](https://slab.com/)**: Team knowledge base with AI-powered search, content suggestions, and automated documentation workflows.
+- **[GPTutor](https://gptutor.tools/)**: VS Code extension offering customizable LLM‑powered code explanations and tutoring across 120+ human languages and 50+ programming languages.
 
 ---
 
@@ -307,6 +371,10 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[CrewAI](https://www.crewai.com/)**: Multi-agent platform for automated DevOps workflows.
 - **[Kubiya.ai](https://kubiya.ai/)**: AI-powered DevOps automation platform.
 - **[Warestack](https://warestack.com/)**: AI-powered development infrastructure.
+- **[Harness](https://harness.io/)**: AI-powered CI/CD platform with intelligent deployment strategies, automated rollbacks, and performance optimization.
+- **[GitLab AI](https://about.gitlab.com/solutions/artificial-intelligence/)**: Integrated AI features across GitLab including code suggestions, security scanning, and workflow optimization.
+- **[Terraform Cloud](https://www.terraform.io/cloud)** – Infrastructure as code platform with AI-powered policy suggestions and optimization recommendations.
+- **[Pulumi AI](https://www.pulumi.com/ai/)**: Infrastructure as code platform with AI assistance for cloud resource management and optimization.
 
 ---
 
@@ -316,6 +384,9 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Gecko Security](https://gecko.security/)**: AI-powered security analysis for code.
 - **[Codegate](https://codegate.ai/)**: AI-powered code security and compliance.
 - **[Zeropath](https://zeropath.com/)**: AI-powered security testing.
+- **[Checkmarx](https://checkmarx.com/)**: AI-enhanced static application security testing platform with comprehensive vulnerability detection.
+- **[Mend (formerly WhiteSource)](https://www.mend.io/)**: AI-powered open source security and license compliance platform.
+- **[JFrog Xray](https://jfrog.com/xray/)**: AI-driven security and compliance scanning for DevOps pipelines and artifact repositories.
 
 ---
 
@@ -365,7 +436,29 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 
 ---
 
-## 🗄️ MCP Server & Tools
+## 📱 Mobile Development
+- **[FlutterFlow AI](https://flutterflow.io/ai)**: AI-powered visual development platform for Flutter applications with drag-and-drop interface and code generation.
+- **[Thunkable](https://thunkable.com/)**: AI-assisted no-code mobile app development platform supporting both iOS and Android.
+- **[AppSheet (Google)](https://www.appsheet.com/)**: No-code app development platform with AI-powered data integration and workflow automation.
+
+---
+
+## 🗄️ Database & API Tools
+- **[Supabase AI](https://supabase.com/ai)**: AI features for database schema generation, query optimization, and API development assistance.
+- **[Hasura](https://hasura.io/)**: GraphQL API platform with AI-powered query optimization and schema management.
+- **[Retool AI](https://retool.com/ai)**: AI-powered internal tool builder with natural language interface for creating business applications.
+
+---
+
+## 🎯 MLOps & Specialized Tools
+- **[Weights & Biases](https://wandb.ai/)** – MLOps platform with AI model management, experiment tracking, and automated hyperparameter optimization.
+- **[Gradio](https://gradio.app/)** – AI tool for rapidly creating machine learning model demos and interactive interfaces.
+- **[Streamlit](https://streamlit.io/)** – Framework for building AI/ML data applications with minimal code and AI-powered features.
+- **[Observable](https://observablehq.com/)** – Data visualization platform with AI-enhanced analysis and interactive notebook capabilities.
+
+---
+
+## 🗄️ MCP Server/Tools
 - **[MCP Server Finder](https://www.mcpserverfinder.com/servers)**: Discover and browse a wide range of MCP servers.
 - **[MCP So](https://mcp.so/)**: Platform for MCP server resources and community.
 - **[MCP Market](https://mcpmarket.com/)**: Marketplace for MCP-related tools and services.
