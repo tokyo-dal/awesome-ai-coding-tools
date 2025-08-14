@@ -67,6 +67,8 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Magic](https://magic.dev/)**: AI software engineer platform that understands codebases and handles complex development tasks autonomously.
 - **[Jupyter AI](https://jupyter-ai.readthedocs.io/)**: AI-powered extensions for Jupyter notebooks enabling natural language code generation and data analysis.
 - **[Replit Agent](https://replit.com/agent)**: Advanced AI agent within Replit that builds complete applications from natural language descriptions.
+- **[Devin AI](https://devin.ai/)**: An autonomous AI software engineer that can plan, code, debug, and deploy projects end-to-end. 
+
 
 ---
 
