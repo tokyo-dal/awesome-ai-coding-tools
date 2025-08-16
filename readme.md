@@ -328,7 +328,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[GitBook AI](https://gitbook.com/ai)**: AI-enhanced documentation platform with intelligent content suggestions and automated organization.
 - **[Slab](https://slab.com/)**: Team knowledge base with AI-powered search, content suggestions, and automated documentation workflows.
 - **[GPTutor](https://gptutor.tools/)**: VS Code extension offering customizable LLM‑powered code explanations and tutoring across 120+ human languages and 50+ programming languages.
-- **[ContentSmith.AI](https://contentsmith.ai/) – ContentSmith.ai is an AI-powered platform that automates content creation, optimization, and publishing at scale.
+- [**ContentSmith.AI**](https://contentsmith.ai/) – ContentSmith.ai is an AI-powered platform that automates content creation, optimization, and publishing at scale.
 
 ---
 
